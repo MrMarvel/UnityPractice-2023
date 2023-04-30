@@ -11,4 +11,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Prac12/MenuScene2.unity
     guid: 5c2a9f5242866024e96ef6c62cd32fa0
+  - enabled: 1
+    path: Assets/Scenes/Prac10/SimpleScene2.unity
+    guid: 9ac7a5a2ed191a543bc0bd83e16ee45d
+  - enabled: 1
+    path: Assets/Scenes/Prac10/SimpleScene1.unity
+    guid: c13d31d4b8c66a54494767fb767cc2ca
+  - enabled: 1
+    path: Assets/Scenes/Prac11/MenuScene.unity
+    guid: c8d1067e328715b489a99b97c74ba5c9
+  - enabled: 1
+    path: Assets/Scenes/Prac13/PersonScene.unity
+    guid: f144481ccf341244e9d9a6e8b87e0366
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}
